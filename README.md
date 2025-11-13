@@ -4,18 +4,22 @@ Proyek ini merupakan implementasi **deteksi wajah dan kelelahan pengguna (drowsi
 Sistem ini mampu mengenali keberadaan wajah pengguna, melacak pergerakan mata, serta menganalisis tingkat kantuk berdasarkan posisi landmark wajah.
 
 ---
-## Support By :
+## 🤝 Support By :
 Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)  
 Mata kuliah : Pengolahan Citra  
 Program Studi : D4 Teknik Elektronika  
 Politeknik Elektronika Negeri Surabaya  
 
-Anggota kelompok:  
-Kelompok 6 :  
-Al Farruq Rodhiyatul A.    (2122600021)  
-Yunanta Adi Wijaya         (2122600035)  
-Dewangga Pratama Ikko P.   (2122600052)  
-Dewa Gede Angkasa A.       (2122600059)
+---
+
+## 👥 Daftar Anggota Kelompok 6
+
+| No | Nama Lengkap        | NRP           |
+|----|----------------------|----------------|
+| 1  | Al Farruq Rodhiyatul A.          | 2122600021     |
+| 2  | Yunanta Adi Wijaya    | 2122600035     |
+| 3  | Dewangga Pratama Ikko P.    | 2122600052     |
+| 4  |Dewa Gede Angkasa A. |2122600059 |
 
 ---
 
@@ -38,27 +42,35 @@ Dewa Gede Angkasa A.       (2122600059)
 
 ## ⚙️ Cara Menjalankan Program
 1. Pastikan Python telah terinstal.  
-2. Instal dependensi berikut:
+2. Instal dependensi berikut dengan mengetik pada Terminal (CMD):
    ```bash
    pip install opencv-python mediapipe pygame
-
-## 🧩 Teknologi & Library yang Digunakan
-
+3. Setelah terinstal Setelah semua dependensi terinstal, jalankan program utama dengan perintah:
+   ```bash
+   python microsleep.py
+4. Program Siap dioperasikan
 
 ---
 ## 🧭 Alur Kerja Sistem
-![Alt text](https://github.com/2122600021-ALFARRUQ/Implementasi-Haar-Cascade-Untuk-Microbreak/blob/ec81bc419444c6c91b2ffa09badbded1ef665f36/Alur_Program_Deteksi_Wajah.png)
+![Alt text](https://github.com/WAYs-s/Microsleep-Detection-System-untuk-Mendeteksi-Kelelahan-dan-Kantuk-Menggunakan-Deteksi-Mata-/blob/bf6e8e9971c3a1363763172793faa47b40efceff/Alur%20Kerja%20Microsleep.jpg)
 
+---
 ## 🧭 Flowchart Sistem
-![Alt text](https://github.com/2122600021-ALFARRUQ/Implementasi-Haar-Cascade-Untuk-Microbreak/blob/c83b80360666de98103237fae1214d8836fc99b6/Flowchart%20Microbreak.jpeg)
+![Alt text](https://github.com/WAYs-s/Microsleep-Detection-System-untuk-Mendeteksi-Kelelahan-dan-Kantuk-Menggunakan-Deteksi-Mata-/blob/bf6e8e9971c3a1363763172793faa47b40efceff/FLOWCHART%20MEDIPIPE%20CAMERA.png)
 
+---
+## 🧭 Kesimpulan
+🧠 Kesimpulan
 
-## Kesimpulan
+- Sistem berbasis MediaPipe Face Mesh berhasil mendeteksi tanda microsleep secara real-time melalui perhitungan Eye Aspect Ratio (EAR).
+- Nilai ambang batas 0.25 terbukti efektif untuk membedakan kondisi mata terbuka dan tertutup.
+- Fitur alarm suara dan notifikasi visual memberikan peringatan dini yang membantu pengguna untuk segera mengambil waktu istirahat singkat (microbreak).
+- Aplikasi menyediakan dua mode utama, yaitu User Mode untuk penggunaan umum dan Developer Mode untuk pengaturan parameter yang lebih detail.
 
-
-## Dokumentasi 
+---
+##  📸 Dokumentasi 
 Link video: https://youtu.be/0EhADgEiu3U
-
+---
 
 
 
