@@ -60,7 +60,6 @@ Politeknik Elektronika Negeri Surabaya
 
 ---
 ## 🧭 Kesimpulan
-🧠 Kesimpulan
 
 - Sistem berbasis MediaPipe Face Mesh berhasil mendeteksi tanda microsleep secara real-time melalui perhitungan Eye Aspect Ratio (EAR).
 - Nilai ambang batas 0.25 terbukti efektif untuk membedakan kondisi mata terbuka dan tertutup.
@@ -69,6 +68,9 @@ Politeknik Elektronika Negeri Surabaya
 
 ---
 ##  📸 Dokumentasi 
+
+Berikut video percobaan program  yang digunakan dalam mendeteksi ngantuk.
+
 Link video: https://youtu.be/0EhADgEiu3U
 ---
 
