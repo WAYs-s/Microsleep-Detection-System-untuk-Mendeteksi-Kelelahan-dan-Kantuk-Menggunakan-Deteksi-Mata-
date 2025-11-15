@@ -74,9 +74,7 @@ Diagram UML penggambaran Interaksi antara User dengan Aplikasi dalam case normal
 ##  📸 Dokumentasi 
 
 Berikut video percobaan program  yang digunakan dalam mendeteksi ngantuk.
-
-Link video: https://youtu.be/0EhADgEiu3U
----
+Link video: https://youtu.be/ZdpbrX9DYDI
 
 
 
