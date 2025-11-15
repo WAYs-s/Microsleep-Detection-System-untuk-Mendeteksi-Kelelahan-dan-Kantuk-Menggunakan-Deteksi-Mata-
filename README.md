@@ -59,8 +59,12 @@ Politeknik Elektronika Negeri Surabaya
 ![Alt text](https://github.com/WAYs-s/Microsleep-Detection-System-untuk-Mendeteksi-Kelelahan-dan-Kantuk-Menggunakan-Deteksi-Mata-/blob/bf6e8e9971c3a1363763172793faa47b40efceff/FLOWCHART%20MEDIPIPE%20CAMERA.png)
 
 ---
-## 🧭 Kesimpulan
+## 🧭 Diagram UML
+Diagram UML penggambaran Interaksi antara User dengan Aplikasi dalam case normal
+<img src= "https://github.com/WAYs-s/Microsleep-Detection-System-untuk-Mendeteksi-Kelelahan-dan-Kantuk-Menggunakan-Deteksi-Mata-/blob/e88adc46c650ad2732db9c7d64e6abe6d8be6919/Interaksi_MicroSleep.png" alt="Alt text" width="500" height="1000">
 
+---
+## 🖊️ Kesimpulan
 - Sistem berbasis MediaPipe Face Mesh berhasil mendeteksi tanda microsleep secara real-time melalui perhitungan Eye Aspect Ratio (EAR).
 - Nilai ambang batas 0.25 terbukti efektif untuk membedakan kondisi mata terbuka dan tertutup.
 - Fitur alarm suara dan notifikasi visual memberikan peringatan dini yang membantu pengguna untuk segera mengambil waktu istirahat singkat (microbreak).
