@@ -68,6 +68,8 @@ Diagram UML penggambaran Interaksi antara User dengan Aplikasi dalam case normal
 - Sistem berbasis MediaPipe Face Mesh berhasil mendeteksi tanda microsleep secara real-time melalui perhitungan Eye Aspect Ratio (EAR).
 - Nilai ambang batas 0.25 terbukti efektif untuk membedakan kondisi mata terbuka dan tertutup.
 - Fitur alarm suara dan notifikasi visual memberikan peringatan dini yang membantu pengguna untuk segera mengambil waktu istirahat singkat (microbreak).
+- Min Detection Confinde input seberapa besar menentukan bahwa objek tersebut wajah. Min Tracking Confidence adalah Input Space Jeda untuk tracking titik wajah berdasarkan frame sebelumnya. 
+-Nilai Input Detection dan Confidence stabil pada 0.5. sedangkan pada pencahayan & kualitas kamera kurang di set 0.35 - 0.45.
 - Aplikasi menyediakan dua mode utama, yaitu User Mode untuk penggunaan umum dan Developer Mode untuk pengaturan parameter yang lebih detail.
 
 ---
